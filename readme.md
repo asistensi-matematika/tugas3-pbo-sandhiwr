@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: `Sandhi Wijaya Rosga`
 
-NRP: `isi nrp disini`
+NRP: `06111840000031`
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -52,6 +52,11 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 
 ## Screenshot hasil
 masukkan screenshot output disini
+
+![Screenshot (2)](https://user-images.githubusercontent.com/49557695/66617356-fec42a00-ebfe-11e9-8cac-865ff963b2af.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/49557695/66617420-3e8b1180-ebff-11e9-8544-d9a37bdd4fd8.png)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
